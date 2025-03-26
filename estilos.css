@@ -46,3 +46,41 @@ header h1{
 
 }
 
+.container{
+    background-color: blueviolet;
+    width: 80%;
+    margin: 0 auto;
+    position: relative;
+    z-index: 1;
+}
+
+.contenedor_foto_perfil {
+    width: 280px;
+    height: 200px;
+    border-radius: 50%;
+    overflow: hidden;
+    display: inline-block;
+    vertical-align: middle;
+    border: 7px solid black;
+    margin: 5%;
+    box-shadow: 0  0 20px rgb(17, 15, 131);
+}
+
+.contenedor_foto_perfil img  { 
+
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.cabecera { 
+    position: relative;
+
+
+}
+.nombre_puesto { 
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 1%;
+    text-shadow: 0 0 20px rgb(0,0,0,0.5);
+}
