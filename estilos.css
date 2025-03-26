@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Tektur:wght@400..900&display=swap');
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box
+}
+
+body{
+    font-family: "Arimo, sans-serif";
+    background-color: rgb(17, 15, 131);
+    margin: 5%;
+    line-height: 1.6;
+
+}
+main {
+    max-width: 800px;
+    margin: auto;
+    padding : 20px;
+    box-shadow: 0 0 10px
+
+}
+
+header {
+    text-align: center;
+    color: brown;
+    padding: 20px 0;
+    border-radius: 8px 8px 8px ;
+    background-image: url(imagenes/fragmento-codigo-html.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+header figure img{
+    border-radius: 50%;
+    border: 5px solid #216cae;
+    box-shadow:  0 0 10px;
+
+
+
+}
+
+header h1{
+    font-size: 1.2cm;
+    opacity: 0.9;
+
+}
+
