@@ -84,3 +84,54 @@ header h1{
     margin-left: 1%;
     text-shadow: 0 0 20px rgb(0,0,0,0.5);
 }
+
+h3{
+    font-size: 1.4em;
+    margin-top: 20px;
+    color: rgb(0, 0, 0);
+}
+
+section{
+    background-color: rgb(165, 189, 30);
+    padding: 15px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    box-shadow: 0 0 5px rgb(0,0,0,0.1)}
+
+section hr{
+    border: 0;
+    height: 2px;
+    background-color: black;
+    margin: 10px;
+
+
+
+}
+ul{
+    list-style: none;
+    
+
+
+}
+ul{
+
+    padding: 5px 0;
+}
+i{
+    color: #216cae;
+    margin: right 8px;
+
+}
+address{
+    margin: 5px
+
+}
+
+address{
+    color: blue;
+    text-decoration: none;
+
+}
+address{
+    margin-bottom: 15px;
+}
