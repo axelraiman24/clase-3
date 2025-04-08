@@ -7,7 +7,7 @@
 
 body{
     font-family: "Arimo, sans-serif";
-    background-color: rgb(17, 15, 131);
+    background-color: rgb(50, 0, 251);
     margin: 5%;
     line-height: 1.6;
 
@@ -22,7 +22,7 @@ main {
 
 header {
     text-align: center;
-    color: brown;
+    color: rgb(26, 14, 198);
     padding: 20px 0;
     border-radius: 8px 8px 8px ;
     background-image: url(imagenes/fragmento-codigo-html.jpg);
@@ -33,7 +33,7 @@ header {
 
 header figure img{
     border-radius: 50%;
-    border: 5px solid #216cae;
+    border: 5px solid #106ec1;
     box-shadow:  0 0 10px;
 
 
@@ -47,7 +47,7 @@ header h1{
 }
 
 .container{
-    background-color: blueviolet;
+    background-color: rgb(0, 0, 0);
     width: 80%;
     margin: 0 auto;
     position: relative;
@@ -63,7 +63,7 @@ header h1{
     vertical-align: middle;
     border: 7px solid black;
     margin: 5%;
-    box-shadow: 0  0 20px rgb(17, 15, 131);
+    box-shadow: 0  0 20px rgb(19, 17, 153);
 }
 
 .contenedor_foto_perfil img  { 
@@ -118,7 +118,7 @@ ul{
     padding: 5px 0;
 }
 i{
-    color: #216cae;
+    color: #0088ff;
     margin: right 8px;
 
 }
@@ -128,7 +128,7 @@ address{
 }
 
 address{
-    color: blue;
+    color: rgb(0, 0, 0);
     text-decoration: none;
 
 }
